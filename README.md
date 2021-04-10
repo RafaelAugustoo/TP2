@@ -54,6 +54,8 @@ e em seguida ./a.out para executar.
 
 
         	3-Anéis planetários (6%): coloque os anéis ao redor dos planetas gigantes gasosos (Saturno)
+		
+		4- Reshape (6%): permitir o redimensionamento da janela de visualização sem perda da razão de aspecto (sem que haja distorção de achatamento/alongamento)
 
 
 
