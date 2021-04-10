@@ -69,6 +69,6 @@ e em seguida ./a.out para executar.
 >#####	Imagens: https://www.solarsystemscope.com/textures/
 
 # **VIDEO**
->Link do vídeo https://youtu.be/LqFkw0xMnuM
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/LqFkw0xMnuM/0.jpg)](https://youtu.be/LqFkw0xMnuM)
+># Link do vídeo https://youtu.be/_JOMOH67VOk
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_JOMOH67VOk/0.jpg)](https://youtu.be/_JOMOH67VOk)
 
