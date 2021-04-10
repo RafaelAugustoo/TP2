@@ -28,16 +28,16 @@
 
 ## Execução
 >### Existem dois modos:
-> Via Terminal manualmente onde você irá utilzar o comando **cd/diretório** e vai colocar o diretório/pasta onde foi baixado o jogo. **Ex: cd 'Área de Trabalho'/TP2**
+> Via Terminal manualmente onde você irá utilzar o comando **cd/diretório** e vai colocar o diretório/pasta onde foi baixado o programa do Sistema Solar. **Ex: cd 'Área de Trabalho'/TP2**
 > Após isso você deve digitar o comando g++ tp2.cpp -lglut -lGLU -lGL -lGLEW -lSOIL -lSDL -lSDLmain -lSDL_mixer para compilar o programa
 e em seguida ./a.out para executar.
 
 >### O outro modo é via terminal porém utilzando os comandos make:
 ### Instala todas as bibliotecas necessárias.
 >	make install-libs 
-### Compila o Game
+### Compila o projeto
 >	make all
-### Executa o Game
+### Executa o projeto
 >	make run
 ### Limpa o arquivo compilado
 >	make clean
